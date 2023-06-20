@@ -6,9 +6,11 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/-Taller-white?style=for-the-badge&logo=Linux"/>
+<img src="https://img.shields.io/badge/-Charla-white?style=for-the-badge&logo=Linux"/>
 
-<img src="https://img.shields.io/badge/-Hardware-black?style=for-the-badge&logo=amazonec2"/>
+<img src="https://img.shields.io/badge/-testing-black?style=for-the-badge&logo=testinglibrary"/>
+
+<img src="https://img.shields.io/badge/-DevOps-black?style=for-the-badge&logo=azuredevops"/>
 
 </p>
 
