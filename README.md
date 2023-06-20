@@ -1,2 +1,17 @@
-# Testing-en-tiempos-de-DevOps
+<div align="center">
+
+# Testing en tiempos de Devops
+
+</div>
+
+<p>
+
+![Taller](https://img.shields.io/badge/-Taller-white?style=for-the-badge&logo=Linux)
+
+![Hardware badge](https://img.shields.io/badge/-Hardware-black?style=for-the-badge&logo=amazonec2)
+
+</p>
+
+## Descripción
+
 Integración de la cultura DevOps en la Industria del Software Colombiana y su beneficio para el sector de QA.
