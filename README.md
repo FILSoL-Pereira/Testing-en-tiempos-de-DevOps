@@ -6,9 +6,9 @@
 
 <p>
 
-![Taller](https://img.shields.io/badge/-Taller-white?style=for-the-badge&logo=Linux)
+<img src="https://img.shields.io/badge/-Taller-white?style=for-the-badge&logo=Linux"/>
 
-![Hardware badge](https://img.shields.io/badge/-Hardware-black?style=for-the-badge&logo=amazonec2)
+<img src="https://img.shields.io/badge/-Hardware-black?style=for-the-badge&logo=amazonec2"/>
 
 </p>
 
